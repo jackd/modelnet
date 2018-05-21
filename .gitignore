@@ -1,0 +1,7 @@
+_parsed
+_point_clouds
+_cloud_normals
+_voxels
+_clean
+*.pyc
+__pycache__
